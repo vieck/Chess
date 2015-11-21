@@ -1,0 +1,13 @@
+<Solution>
+  <PropertyGroup Name="Chess" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="chess_squares.jpg" />
+        <TmxFile Name="board.tmx" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
