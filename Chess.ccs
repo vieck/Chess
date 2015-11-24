@@ -6,6 +6,9 @@
         <Project Name="MainScene.csd" Type="Scene" />
         <Image Name="HelloWorld.png" />
         <Image Name="chess_squares.jpg" />
+        <Folder Name="pieces">
+          <Image Name="pawn.png" />
+        </Folder>
         <TmxFile Name="board.tmx" />
       </RootFolder>
     </Group>

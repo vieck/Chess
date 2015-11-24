@@ -2,9 +2,27 @@
   <Properties>
     <Item Key="CocosRecentOperation">
       <Value ctype="CocosRecentOperation">
-        <LastPublishType Value="Resource" />
-        <IsLastPublish Value="True" />
+        <LastPublishType Value="XCode" />
+        <IsLastPublish Value="False" />
         <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.Chess" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-21" />
+        <iOS_Target Value="Chess-mobile" />
+        <iOS_BundleID Value="" />
+        <Platform Value="Android" />
+        <RunPlatform Value="Mac" />
+        <FrameworkVersion Value="cocos2d-x-3.8" />
+        <IsDebugKeystore Value="True" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
     <Item Key="TabsParamsKey">
